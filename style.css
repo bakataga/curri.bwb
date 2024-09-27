@@ -1,0 +1,32 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+    float: left;
+    margin: 10px;
+    
+}
+
+body, footer{
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,174,1) 100%);
+
+}
+
+h2{
+color: darkslategray;
+font-weight: bold;
+text-align: center;
+margin-top: 20px;
+
+}
+img{
+    float: right;
+    margin: 10px ;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
